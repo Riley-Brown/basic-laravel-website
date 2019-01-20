@@ -7,3 +7,4 @@
     consequatur ipsum aut repudiandae magnam molestiae atque eius adipisci tempore similique, quis possimus minima
     ratione placeat ullam beatae modi libero sapiente.</p>
 @endsection
+ 
